@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bobekpowersolutions.com/sitemap.xml
